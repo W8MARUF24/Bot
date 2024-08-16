@@ -229,7 +229,7 @@ document.addEventListener('DOMContentLoaded', () => {
         keyCountGroup.style.display = 'block';
     });
 
-    Telegram channel.addEventListener('click', () => {
+    Telegramchannel.addEventListener('click', () => {
         window.open('https://t.me/YouTubePremium019', '_blank');
     });
 
